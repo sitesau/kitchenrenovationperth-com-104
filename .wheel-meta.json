@@ -1,0 +1,19 @@
+{
+  "wheel_id": 355,
+  "structure": "umbrella",
+  "slug": "kitchenrenovationperth-com-104",
+  "project": "perth-kitchen-renovations-costs-30f9bde25a4e18440f28cf33f7d31d4",
+  "parent_t1_ref": "kitchenrenovationperth-com-151",
+  "node_role": "feeder",
+  "money_target": "kitchenrenovationperth.com.au",
+  "primary_kw": "perth kitchen renovations costs",
+  "intended_url": "http://perth-kitchen-renovations-costs-30f9bde25a4e18440f28cf33f7d31d4.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "writeback_nonce": "d7c37c0e4b238ce1",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/perth-kitchen-renovations-b4a2c44038a4f05a0403d3424bd0b82f02/",
+      "anchor": "perth kitchen renovations",
+      "rel": "follow"
+    }
+  ]
+}
